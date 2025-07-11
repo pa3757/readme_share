@@ -2,6 +2,11 @@
 
 # 📃 Introduction
 - 서비스 명 : ViT파인튜닝 이미지 분류기반 포켓몬 키우기 및 루틴 만들기 서비스
+
+# 📅 프로젝트 기간
+2022.04.22 ~ 2022.06.03 (6주)
+<br>
+
 - 제안 배경
   ![image](https://github.com/user-attachments/assets/8fdbbb75-a772-44aa-a210-2dc853a9b952)
   ![image](https://github.com/user-attachments/assets/de61b3e6-5625-4f63-8d6d-12eb2f160660)
